@@ -8,13 +8,20 @@ Using [citipy Python library](https://pypi.python.org/pypi/citipy) and the [Open
 
 The following scatter plots were built using [matplotlib.pyplot](https://matplotlib.org/api/_as_gen/matplotlib.pyplot.html) to visualize the relationship between weather and latitude:
 
-* Temperature (F) vs. Latitude
++ Temperature (F) vs. Latitude
+<br>
 ![Temp vs Lat](Images/temperature.png)
-* Humidity (%) vs. Latitude
+
++ Humidity (%) vs. Latitude
+<br>
 ![Humidty vs Lat](Images/humidity.png)
-* Cloudiness (%) vs. Latitude
+
++ Cloudiness (%) vs. Latitude
+<br>
 ![Cloudiness vs Lat](Images/cloudiness.png)
-* Wind Speed (mph) vs. Latitude
+
++ Wind Speed (mph) vs. Latitude
+<br>
 ![Wind Speed vs Lat](Images/windspeed.png)
 
 
